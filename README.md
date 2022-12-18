@@ -1,2 +1,3 @@
-# ertarger
+# ErTarGer
+
 Playing around with Erlang.
